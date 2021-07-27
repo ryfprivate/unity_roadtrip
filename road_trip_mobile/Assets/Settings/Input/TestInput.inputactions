@@ -1,0 +1,33 @@
+{
+    "name": "TestInput",
+    "maps": [
+        {
+            "name": "Game",
+            "id": "b0706031-c579-47e6-ad13-2dc7f93853d2",
+            "actions": [
+                {
+                    "name": "Start",
+                    "type": "Button",
+                    "id": "b33a146e-41d2-4ac0-a6a8-37c1983db369",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f2370685-d464-4b62-991e-9d0842541c17",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
